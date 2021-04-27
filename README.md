@@ -4,21 +4,13 @@ I am originally from Poland but have been living in NZ for the last 7 years. My 
 
 I used to be a Technical Business Analyst but then decided to shift my career to development space.
 
-## Portfolio
+__My Porfolio__: [mjfelix.dev/#portfolio](https://mjfelix.dev/#portfolio)
 
-See [mjfelix.dev/#portfolio](https://mjfelix.dev/#portfolio)
+__My Values__: coming soon ...
 
-## Values
+__My Journey__: coming soon ...
 
-Coming soon ...
-
-## Journey
-
-Coming soon ...
-
-## Resume
-
-Coming soon ...
+__My Resume__: coming soon ...
 
 ## Contact
 
