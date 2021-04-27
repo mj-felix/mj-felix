@@ -2,6 +2,8 @@
 
 I am originally from Poland but have been living in NZ for the last 7 years. My original name is Maciej Szczęsny. As no one can pronounce it, I shorten my first name to first and last letter - MJ and use direct translation of my surname to English - Felix. MJ Felix. Short and sweet!
 
+I used to be a Technical Business Analyst but then decided to shift my career to development space.
+
 ## Portfolio
 
 See [mjfelix.dev/#portfolio](https://mjfelix.dev/#portfolio)
