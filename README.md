@@ -6,11 +6,11 @@ I used to be a Technical Business Analyst but then decided to shift my career to
 
 __My Porfolio__: [mjfelix.dev/#portfolio](https://mjfelix.dev/#portfolio)
 
-__My Values__: coming soon ...
+__My Values__: [mjfelix.dev/#values](https://mjfelix.dev/#values)
 
-__My Journey__: coming soon ...
+__My Journey__: [mjfelix.dev/#journey](https://mjfelix.dev/#journey)
 
-__My Resume__: coming soon ...
+__My Resume__: [mjfelix.dev/#resume](https://mjfelix.dev/#resume)
 
 ## Contact
 
