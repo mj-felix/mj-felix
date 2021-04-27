@@ -1,6 +1,28 @@
-### Hi there 👋
+## Who am I?
 
-My original Polish name is Maciej Szczęsny. As no one can pronounce it, I shorten my first name to first and last letter - MJ and use direct translation of my surname to English - Felix. MJ Felix. Short and sweet!
+I am originally from Poland but have been living in NZ for the last 7 years. My original name is Maciej Szczęsny. As no one can pronounce it, I shorten my first name to first and last letter - MJ and use direct translation of my surname to English - Felix. MJ Felix. Short and sweet!
+
+## Values
+
+Coming soon ...
+
+## Journey
+
+Coming soon ...
+
+## Resume
+
+Coming soon ...
+
+## Contact
+
+mjfelixdev@gmail.com<br>
+[mjfelix.dev](https://mjfelix.dev)<br>
+[LinkedIn Profile](https://www.linkedin.com/in/mjfelix/) ![Linkedin Profile](https://i.stack.imgur.com/gVE0j.png)
+
+## Support
+
+If you like what I build, [shout me a beer](https://www.buymeacoffee.com/mjfelix).
 
 <!--
 **mj-felix/mj-felix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
