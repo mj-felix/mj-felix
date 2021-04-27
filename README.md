@@ -26,7 +26,7 @@ mjfelixdev@gmail.com<br>
 
 ## Support
 
-If you like what I build, [shout me a beer](https://www.buymeacoffee.com/mjfelix).
+If you like what I build, [shout me a &#127866;](https://www.buymeacoffee.com/mjfelix).
 
 <!--
 **mj-felix/mj-felix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
