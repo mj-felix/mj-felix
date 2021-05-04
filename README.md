@@ -4,7 +4,7 @@ I am originally from Poland but have been living in NZ for the last 7 years. My 
 
 I used to be a Technical Business Analyst but then decided to shift my career to development space.
 
-__My Porfolio__: [mj-felix.github.io/#portfolio](https://mj-felix.github.io/#portfolio)
+__My Porfolio__: <a href="https://mj-felix.github.io/#portfolio" target="_blank">mj-felix.github.io/#portfolio</a>
 
 __My Values__: [mj-felix.github.io/#values](https://mj-felix.github.io/#values)
 
