@@ -8,6 +8,7 @@ Check out [mj-felix.github.io](https://mj-felix.github.io) to learn more about m
 
 ## Contact
 
+MJ Felix<br>
 [mj-felix.github.io](https://mj-felix.github.io)<br>
 mjfelixdev@gmail.com<br>
 [linkedin.com/in/mszonline](https://www.linkedin.com/in/mjfelix/) ![Linkedin Profile](https://i.stack.imgur.com/gVE0j.png)
