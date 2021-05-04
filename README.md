@@ -4,17 +4,17 @@ I am originally from Poland but have been living in NZ for the last 7 years. My 
 
 I used to be a Technical Business Analyst but then decided to shift my career to development space.
 
-__My Porfolio__: [mjfelix.dev/#portfolio](https://mjfelix.dev/#portfolio)
+__My Porfolio__: [mj-felix.github.io/#portfolio](https://mj-felix.github.io/#portfolio)
 
-__My Values__: [mjfelix.dev/#values](https://mjfelix.dev/#values)
+__My Values__: [mj-felix.github.io/#values](https://mj-felix.github.io/#values)
 
-__My Journey__: [mjfelix.dev/#journey](https://mjfelix.dev/#journey)
+__My Journey__: [mj-felix.github.io/#journey](https://mj-felix.github.io/#journey)
 
-__My Resume__: [mjfelix.dev/#resume](https://mjfelix.dev/#resume)
+__My Resume__: [mj-felix.github.io/#resume](https://mj-felix.github.io/#resume)
 
 ## Contact
 
-[mjfelix.dev](https://mjfelix.dev)<br>
+[mj-felix.github.io](https://mj-felix.github.io)<br>
 mjfelixdev@gmail.com<br>
 [linkedin.com/in/mszonline](https://www.linkedin.com/in/mjfelix/) ![Linkedin Profile](https://i.stack.imgur.com/gVE0j.png)
 
