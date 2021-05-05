@@ -4,12 +4,12 @@ I am originally from Poland but have been living in NZ for the last 7 years. My 
 
 I used to be a Technical Business Analyst but then decided to shift my career to development space.
 
-Check out [mj-felix.github.io](https://mj-felix.github.io) to learn more about me. 
+Check out [mjfelix.dev](https://mjfelix.dev) to learn more about me. 
 
 ## Contact
 
 MJ Felix<br>
-[mj-felix.github.io](https://mj-felix.github.io)<br>
+[mjfelix.dev](https://mjfelix.dev)<br>
 mjfelixdev@gmail.com<br>
 [linkedin.com/in/mszonline](https://www.linkedin.com/in/mjfelix/) ![Linkedin Profile](https://i.stack.imgur.com/gVE0j.png)
 
