@@ -4,7 +4,9 @@ I am originally from Poland but have been living in NZ for the last 7 years. My 
 
 I used to be a Technical Business Analyst but then decided to shift my career to development space.
 
-Check out [mjfelix.dev](https://mjfelix.dev) to learn more about me. 
+Check out [mjfelix.dev](https://mjfelix.dev) to learn more about me.
+
+Also, sharing some of my *pearls of wisdom* via [trackmynotes.mjfelix.dev/user/mjfelix/notes](https://trackmynotes.mjfelix.dev/user/mjfelix/notes).
 
 ## Contact
 
