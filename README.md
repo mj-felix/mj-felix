@@ -13,7 +13,7 @@ Also, sharing some of my *pearls of wisdom* via [trackmynotes.mjfelix.dev/user/m
 MJ Felix<br>
 [mjfelix.dev](https://mjfelix.dev)<br>
 mjfelixdev@gmail.com<br>
-[linkedin.com/in/mszonline](https://www.linkedin.com/in/mjfelix/) ![Linkedin Profile](https://i.stack.imgur.com/gVE0j.png)
+[linkedin.com/in/mjfelix](https://www.linkedin.com/in/mjfelix/) ![Linkedin Profile](https://i.stack.imgur.com/gVE0j.png)
 
 ## Support
 
